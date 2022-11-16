@@ -1,0 +1,5 @@
+mkdir Project2
+chmod -r 777 Project2
+touch /Project2/Code.txt
+cat>/Project2/Code.txt
+Hi This is text file
